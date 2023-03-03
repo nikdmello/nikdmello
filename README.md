@@ -1,6 +1,6 @@
 ## Hi, I'm Nik 👋
 
-### Software Developer on the Cloud Practice Team @ TownSq
+### Software Developer @ TownSq, Cloud Practice Team
 
 #### Right now, I'm probably...
 - 🔭 Contributing to open-source work 
