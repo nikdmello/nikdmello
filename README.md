@@ -1,6 +1,6 @@
 ### Hi, I'm Nik 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TylerLeonhardt.TylerLeonhardt)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nikdmello.nikdmello)
 
 <!--
 **nikdmello/nikdmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
