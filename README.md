@@ -4,8 +4,15 @@
 
 ### I currently work at Cloud Practice Team at TownSq.
 
-#### Few things about me:
-- 💬 I'm an self-proclaimed professional food critique. Read my reviews and connect with me on [Yelp](https://www.yelp.com/user_details?userid=0WnmSWvTqHCcEXwXGrgBoA) 
+#### Right now, I'm probably...
+- 🔭 Contributing to open-source work 
+- 🍔 Documenting my experiences at a restaurant. Connect with me on [Yelp!](https://www.yelp.com/user_details?userid=0WnmSWvTqHCcEXwXGrgBoA)
+
+#### About me:
+- 🧑🏽‍🎓 Bachelor's in CS and Finance - Graduated from Northeastern University in December 2022.
+- 🏃‍♂️ Worked at ASICS Digital - Business Intelligence Developer
+- 💸 Worked at PanAgora Asset Management - DevOps Engineer
+- ⚡ Fun fact: I was raised in Dubai!
 
 <!--
 **nikdmello/nikdmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
