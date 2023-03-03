@@ -9,7 +9,7 @@
 - 🍔 Documenting my experiences at a restaurant. Connect with me on [Yelp!](https://www.yelp.com/user_details?userid=0WnmSWvTqHCcEXwXGrgBoA)
 
 #### About me:
-- 🧑🏽‍🎓 Bachelor's in CS and Finance - Graduated from Northeastern University in December 2022.
+- 🎓 Bachelor's in CS and Finance - Graduated from Northeastern University in December 2022.
 - 🏃‍♂️ Worked at ASICS Digital - Business Intelligence Developer
 - 💸 Worked at PanAgora Asset Management - DevOps Engineer
 - ⚡ Fun fact: I was raised in Dubai!
