@@ -1,7 +1,5 @@
 ## Hi, I'm Nik 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nikdmello.nikdmello)
-
 ### I currently work at the Cloud Practice Team at TownSq.
 
 #### Right now, I'm probably...
