@@ -1,6 +1,11 @@
-### Hi, I'm Nik 👋
+## Hi, I'm Nik 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikdmello.nikdmello)
+
+### I currently work at Cloud Practice Team at TownSq.
+
+#### Few things about me:
+- 💬 I'm an self-proclaimed professional food critique. Read my reviews and connect with me on [Yelp](https://www.yelp.com/user_details?userid=0WnmSWvTqHCcEXwXGrgBoA) 
 
 <!--
 **nikdmello/nikdmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
