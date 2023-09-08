@@ -3,14 +3,14 @@
 ### Software Developer @ TownSq, Cloud Practice Team
 
 #### Right now, I'm probably...
-- 🔭 Contributing to open-source work 
-- 🍔 Documenting my experiences at a restaurant. Connect with me on [Yelp!](https://www.yelp.com/user_details?userid=0WnmSWvTqHCcEXwXGrgBoA)
+- 🔭 Writing open-source code
+- 🍔 Documenting my experiences at a restaurant. Find me on [Yelp!](https://www.yelp.com/user_details?userid=0WnmSWvTqHCcEXwXGrgBoA)
 
 #### About me:
 - 🎓 Bachelor's in CS and Finance, Northeastern University '22.
 - 🏃‍♂️ Worked at ASICS Digital - Business Intelligence Developer
 - 💸 Worked at PanAgora Asset Management - DevOps Engineer
-- ⚡ Fun fact: I was raised in Dubai!
+- ⚡ Fun fact: I was raised in Dubai 🌤️
 
 #### Contact:
 - 🫱‍🫲 LinkedIn: https://www.linkedin.com/in/nikdmello/
