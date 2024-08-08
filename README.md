@@ -7,10 +7,9 @@
 - 🍔 Documenting my dining experiences
 
 #### About me:
-- 🎓 Bachelor's in CS and Finance, Northeastern University '22.
+- 🎓 B.S. CS and Finance.
 - 🏃‍♂️ Worked at ASICS Digital - Business Intelligence Developer
 - 💸 Worked at PanAgora Asset Management - DevOps Engineer
-- ⚡ Fun fact: I was raised in Dubai 🌤️
 
 #### Contact:
 - 🫱‍🫲 LinkedIn: https://www.linkedin.com/in/nikdmello/
