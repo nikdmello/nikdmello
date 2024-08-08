@@ -4,7 +4,7 @@
 
 #### Right now, I'm probably...
 - 🔭 Writing open-source code
-- 🍔 Documenting my experiences at a restaurant. Find me on [Yelp!](https://www.yelp.com/user_details?userid=0WnmSWvTqHCcEXwXGrgBoA)
+- 🍔 Documenting my dining experiences
 
 #### About me:
 - 🎓 Bachelor's in CS and Finance, Northeastern University '22.
