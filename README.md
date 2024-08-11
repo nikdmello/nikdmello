@@ -1,6 +1,6 @@
 ## Hi, I'm Nik 👋
 
-### Software Developer @ TownSq, Cloud Practice Team
+### Software Developer @ Associa
 
 #### Right now, I'm probably...
 - 🔭 Writing open-source code
