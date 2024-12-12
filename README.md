@@ -1,4 +1,4 @@
-## Hi, I'm Nik 👋
+<!-- ## Hi, I'm Nik 👋
 
 ### Software Developer @ Associa
 
@@ -12,7 +12,7 @@
 - 💸 Worked at PanAgora Asset Management - DevOps Engineer
 
 #### Contact:
-- 🫱‍🫲 LinkedIn: https://www.linkedin.com/in/nikdmello/
+- 🫱‍🫲 LinkedIn: https://www.linkedin.com/in/nikdmello/ -->
 <!--
 **nikdmello/nikdmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
