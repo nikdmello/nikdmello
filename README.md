@@ -1,31 +1,17 @@
-<!-- ## Hi, I'm Nik 👋
+# Hi, I'm Nik
 
 ### Software Developer @ Associa
 
-#### Right now, I'm probably...
-- 🔭 Writing open-source code
-- 🍔 Documenting my dining experiences
+Currently working on infrastructure autonomous agent economies
 
-#### About me:
-- 🎓 B.S. CS and Finance.
-- 🏃‍♂️ Worked at ASICS Digital - Business Intelligence Developer
-- 💸 Worked at PanAgora Asset Management - DevOps Engineer
+## About
+- B.S. Computer Science and Finance
+- Former Business Intelligence Developer at ASICS Digital
+- Former DevOps Engineer at PanAgora Asset Management
 
-#### Contact:
-- 🫱‍🫲 LinkedIn: https://www.linkedin.com/in/nikdmello/ -->
-<!--
-**nikdmello/nikdmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Recent Projects
+- **Swift Protocol** - Infrastructure for autonomous agent economies
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+## Contact
+- LinkedIn: https://www.linkedin.com/in/nikdmello/
+- GitHub: Building in public
