@@ -1,7 +1,7 @@
 # Hi, I'm Nik
 
 ### Software Developer @ Associa
-Work on production infrastructure for TownSq, a HOA payment app serving 8M+ residents
+Work on production infrastructure for TownSq, an HOA payment app serving 8M+ residents
 
 ## About
 - B.S. Computer Science and Finance  
