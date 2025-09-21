@@ -1,17 +1,16 @@
 # Hi, I'm Nik
 
 ### Software Developer @ Associa
-
-Currently working on infrastructure autonomous agent economies
+Work on production infrastructure for TownSq, a HOA payment app serving 8M+ residents
 
 ## About
-- B.S. Computer Science and Finance
-- Former Business Intelligence Developer at ASICS Digital
+- B.S. Computer Science and Finance  
+- Former BI Developer at ASICS Digital
 - Former DevOps Engineer at PanAgora Asset Management
 
-## Recent Projects
-- **Swift Protocol** - Infrastructure for autonomous agent economies
+## Current Projects
+- **Swift Protocol** - Payment infrastructure for AI agents (the Stripe for AI)
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/nikdmello/
-- GitHub: Building in public
+- Portfolio: [nikdmello.dev](https://nikdmello.dev)
+- LinkedIn: [linkedin.com/in/nikdmello](https://www.linkedin.com/in/nikdmello/)
