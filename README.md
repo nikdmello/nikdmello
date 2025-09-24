@@ -12,5 +12,5 @@ Work on production infrastructure for TownSq, an HOA payment app serving 8M+ res
 - **Swift Protocol** - Payment infrastructure for AI agents (the Stripe for AI)
 
 ## Contact
-- Portfolio: [nikdmello.dev](https://nikdmello.dev)
+- Portfolio: [nikdmello.com](https://nikdmello.com)
 - LinkedIn: [linkedin.com/in/nikdmello](https://www.linkedin.com/in/nikdmello/)
