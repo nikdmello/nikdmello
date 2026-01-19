@@ -1,4 +1,4 @@
-# Hi, I'm Nik
+# Hi, I'm Nikhil
 
 Previously worked on TownSq, a SaaS platform for HOA management serving millions of users.
 
