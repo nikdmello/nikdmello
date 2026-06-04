@@ -1,10 +1,10 @@
 # Hi, I'm Nikhil
 
-Software developer focused on backend systems, cloud infrastructure, and internal platforms.
+Software engineer with 3 YOE.
 
 Previously built software for TownSq, a SaaS platform for HOA management serving millions of users.
 
-Some things I’ve worked on:
+Some projects I’ve worked on:
 
 - Event-driven data sync service for processing workloads at scale (`AWS Lambda`, `EventBridge`, `DynamoDB`, `SQS`, `.NET`)
 - Full-stack platform for automating database schema deployments (`Angular`, `NestJS`, `AWS`)
